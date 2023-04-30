@@ -15,8 +15,8 @@ header_img {
     height: 764px;
     width: 800px;
     position: absolute;
-    left: 39px;
-    top: 105px;
+    left: 25px;
+    top: 102px;
     text-align: center;
 }
 .menu_bar {
@@ -28,8 +28,8 @@ header_img {
     width: 800px;
     float: none;
     position: absolute;
-    left: 38px;
-    top: 84px;
+    left: 25px;
+    top: 82px;
     text-align: center;
 }
 .img {
